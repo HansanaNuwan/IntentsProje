@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 finish();
 
-                Toast toast = Toast.makeText(getApplicationContext(), "You just clicked the Ok button....", Toast.LENGTH_SHORT);
+                Toast toast = Toast.makeText(getApplicationContext(), "You just clicked the Ok button...", Toast.LENGTH_SHORT);
                 toast.show();
 
             }
